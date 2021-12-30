@@ -42,7 +42,9 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "reactive": false,
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["LoginProfile", "BioProfile", "H1B", "BachelorDegree"],
+    "lastLiquibaseTimestamp": 1640834830000
   },
   "git-provider": "GitHub",
   "git-company": "143prudhvi",
